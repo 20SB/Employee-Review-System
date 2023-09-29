@@ -1,6 +1,4 @@
-# NodeJS-Employee Review System
-
- <h1 align="center">Employee Review System  📝</h1> 
+<h1 align="center">Employee Review System  📝</h1> 
 <p align="center">
  🖊️ This is an application that allows employees to submit feedback toward each other’s performance <br>
      This App built using <a href="https://ejs.co/">EJS</a>, <a href="https://www.mongodb.com/">MongoDB</a>, <a href="https://expressjs.com/">ExpressJs</a>, <a href="https://nodejs.org/en/">NodeJs</a> and <a href="http://www.passportjs.org/">PassportJS</a>
@@ -136,4 +134,4 @@ Run `npm start`, open localhost:8000 in browser to run the program
 
 ## Deployed Link
 
--[Placement Cell]()
+-[Employee Review System](https://employee-review-system-2r8p.onrender.com)
